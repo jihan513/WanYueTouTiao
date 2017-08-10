@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_title">
+        <item>推荐</item>
+        <item>视频</item>
+        <item>热点</item>
+        <item>王者荣耀</item>
+        <item>英雄联盟</item>
+        <item>绝地求生</item>
+        <item>黎明杀机</item>
+        <item>穿越火线</item>
+        <item>DOTA</item>
+        <item>部落冲突</item>
+        <item>炉石传说</item>
+        <item>魔兽世界</item>
+        <item>守望先锋</item>
+        <item>龙之谷</item>
+        <item>DNF</item>
+        <item>QQ飞车</item>
+        <item>狼人杀</item>
+        <item>最终幻想</item>
+        <item>皇室战争</item>
+        <item>花园战争</item>
+        <item>300英雄</item>
+    </string-array>
+    <string-array name="home_title_code">
+        <item>__all__</item>
+        <item>video</item>
+        <item>news_hot</item>
+        <item>news_society</item>
+        <item>news_entertainment</item>
+        <item>news_tech</item>
+        <item>news_car</item>
+        <item>news_sports</item>
+        <item>news_finance</item>
+        <item>news_military</item>
+        <item>news_world</item>
+        <item>news_fashion</item>
+        <item>news_game</item>
+        <item>news_travel</item>
+        <item>news_history</item>
+        <item>news_discovery</item>
+        <item>news_food</item>
+        <item>news_baby</item>
+        <item>news_regimen</item>
+        <item>news_story</item>
+        <item>news_essay</item>
+    </string-array>
+</resources>

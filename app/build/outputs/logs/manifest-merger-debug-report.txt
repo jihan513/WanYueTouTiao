@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:3:11-39
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:7:5-39:19
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.8.5] C:\Users\jihan\.android\build-cache\75053fdc214af0a7bb8087b5dc9e7db96553df5c\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\jihan\.android\build-cache\88f83c14dee800f750819e7b848f297653abf34d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\jihan\.android\build-cache\6b6efc6266315e71e1f39ae2ecde2f7384592459\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\jihan\.android\build-cache\0188e8eeb68692f6dfe72196cf2928a8993c9c46\output\AndroidManifest.xml:22:5-20
+MERGED from [com.orhanobut:logger:1.3] C:\Users\jihan\.android\build-cache\8cc97f0e830d28d2382bba48ee6673104272cbc1\output\AndroidManifest.xml:11:5-47
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\jihan\.android\build-cache\96e32619e53bc1bca7897d09f9d2c30591f9e001\output\AndroidManifest.xml:9:5-20
+MERGED from [fm.jiecao:jcvideoplayer-lib:5.4] C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\jcvideoplayer-lib\build\intermediates\bundles\default\AndroidManifest.xml:13:5-16:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\jihan\.android\build-cache\152e9bedd89878dcbfbb6d504e1354f246d346e5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\jihan\.android\build-cache\a0cfe85d5dcc1dca4f7115130e00676b54c216eb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\jihan\.android\build-cache\a15b66e6045e5ab502d15c19e98593384bc74842\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\jihan\.android\build-cache\e514607e60713595b0ed92912a437e606957b42c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\jihan\.android\build-cache\2aeeed9d63a2b6b2920a7c6b00454445a2fd854a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\jihan\.android\build-cache\879f86bfc2e113390e102e6817b6ac59b25b73c9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\jihan\.android\build-cache\a1195daa4503ecbb1494d75e240007d996c07170\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\jihan\.android\build-cache\fd5b88c6a24c2460356af86ccadc726f9c4270d7\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\jihan\.android\build-cache\ecfa952e13798c9f6cde275ea45f4736e8828808\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:10:9-38
+	android:theme
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:8:9-45
+activity#me.weyye.todaynews.ui.activity.MainActivity
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:14:19-59
+activity#me.weyye.todaynews.ui.activity.SplashActivity
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:16:19-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:20:27-74
+activity#me.weyye.todaynews.ui.activity.NewsDetailActivity
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:23:9-67
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:23:19-65
+activity#me.weyye.todaynews.ui.activity.VideoDetailActivity
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:launchMode
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:24:67-97
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:24:19-66
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:27:27-73
+data
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:28:17-72
+	android:host
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:28:49-70
+	android:scheme
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:28:23-48
+activity#me.weyye.todaynews.ui.activity.ChannelActivity
+ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:31:9-38:20
+	android:name
+		ADDED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml:31:19-62
+uses-sdk
+INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.8.5] C:\Users\jihan\.android\build-cache\75053fdc214af0a7bb8087b5dc9e7db96553df5c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.1.0] C:\Users\jihan\.android\build-cache\88f83c14dee800f750819e7b848f297653abf34d\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.1.0] C:\Users\jihan\.android\build-cache\6b6efc6266315e71e1f39ae2ecde2f7384592459\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\jihan\.android\build-cache\007dc9ddaee8cd312ab5377360f3c5b21e4f06e7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\jihan\.android\build-cache\0188e8eeb68692f6dfe72196cf2928a8993c9c46\output\AndroidManifest.xml:20:5-43
+MERGED from [com.orhanobut:logger:1.3] C:\Users\jihan\.android\build-cache\8cc97f0e830d28d2382bba48ee6673104272cbc1\output\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\jihan\.android\build-cache\c3a3d144254c391c4d776a59e8da16989f44664f\output\AndroidManifest.xml:19:5-43
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\jihan\.android\build-cache\96e32619e53bc1bca7897d09f9d2c30591f9e001\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\jihan\.android\build-cache\bdf15424fa9ae3cd50c18fbcd3615034fa978743\output\AndroidManifest.xml:5:5-43
+MERGED from [fm.jiecao:jcvideoplayer-lib:5.4] C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\jcvideoplayer-lib\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\jihan\.android\build-cache\152e9bedd89878dcbfbb6d504e1354f246d346e5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\jihan\.android\build-cache\a0cfe85d5dcc1dca4f7115130e00676b54c216eb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\jihan\.android\build-cache\a15b66e6045e5ab502d15c19e98593384bc74842\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\jihan\.android\build-cache\e514607e60713595b0ed92912a437e606957b42c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\jihan\.android\build-cache\2aeeed9d63a2b6b2920a7c6b00454445a2fd854a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\jihan\.android\build-cache\879f86bfc2e113390e102e6817b6ac59b25b73c9\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\jihan\.android\build-cache\a1195daa4503ecbb1494d75e240007d996c07170\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\jihan\.android\build-cache\fd5b88c6a24c2460356af86ccadc726f9c4270d7\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\jihan\.android\build-cache\ecfa952e13798c9f6cde275ea45f4736e8828808\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] C:\Users\jihan\.android\build-cache\88f83c14dee800f750819e7b848f297653abf34d\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [fm.jiecao:jcvideoplayer-lib:5.4] C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\jcvideoplayer-lib\build\intermediates\bundles\default\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [fm.jiecao:jcvideoplayer-lib:5.4] C:\Users\jihan\Desktop\AndroidWorkspace\TodayNews-master\jcvideoplayer-lib\build\intermediates\bundles\default\AndroidManifest.xml:11:22-76
