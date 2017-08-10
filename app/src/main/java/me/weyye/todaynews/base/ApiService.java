@@ -30,7 +30,8 @@ public interface ApiService {
     /**
      * 获取新闻数据列表
      */
-    @GET(URL_ARTICLE_FEED + "?source=2&as=A1C528E25E76FB8&cp=582EC64FEBD84E1")
+//    @GET(URL_ARTICLE_FEED + "?source=2&as=A1C528E25E76FB8&cp=582EC64FEBD84E1")
+    @GET("http://www.toutiao.com/c/user/article/?page_type=1&user_id=3400026401&max_behot_time=0&count=20&as=A1B5382B95E4C02&cp=58B5747C80723E1")
     Observable<ResultResponse<List<News>>> getNews(@Query("category") String category);
 
     /**

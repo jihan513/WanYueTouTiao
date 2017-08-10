@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Aug 10 10:38:12 CST 2017
+#Thu Aug 10 17:28:26 CST 2017
 20.base=C\:\\Users\\jihan\\Desktop\\AndroidWorkspace\\TodayNews-master\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=C\:\\Users\\jihan\\Desktop\\AndroidWorkspace\\TodayNews-master\\app\\build\\intermediates\\res\\resources-debug.ap_
 493.base=C\:\\Users\\jihan\\Desktop\\AndroidWorkspace\\TodayNews-master\\app\\build\\intermediates\\res\\resources-debug.ap_

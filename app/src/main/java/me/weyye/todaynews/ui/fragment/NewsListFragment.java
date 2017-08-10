@@ -19,7 +19,6 @@ import me.weyye.todaynews.R;
 import me.weyye.todaynews.base.BaseMvpFragment;
 import me.weyye.todaynews.model.News;
 import me.weyye.todaynews.presenter.NewsListPresenter;
-import me.weyye.todaynews.ui.activity.BaseNewsActivity;
 import me.weyye.todaynews.ui.adapter.NewsAdapter;
 import me.weyye.todaynews.utils.ConstanceValue;
 import me.weyye.todaynews.view.INewsListView;
@@ -102,25 +101,25 @@ public class NewsListFragment extends BaseMvpFragment<NewsListPresenter> impleme
                 getData();
             }
         });
-        mAdapter.setOnRecyclerViewItemClickListener(new BaseQuickAdapter.OnRecyclerViewItemClickListener() {
-            @Override
-            public void onItemClick(View view, int i) {
-                News news = mDatas.get(i);
-                ///item_seo_url的值是item/6412427713050575361/  ,取出6412427713050575361
-                String itemId = news.item_seo_url.replace("item/", "").replace("/", "");
-                StringBuffer urlSb = new StringBuffer("http://m.toutiao.com/");
-                if (!itemId.startsWith("i"))
-                    urlSb.append("i");
-                urlSb.append(itemId).append("/info/");
-                String url = urlSb.toString();
-                if (news.article_genre.equals(ConstanceValue.ARTICLE_GENRE_VIDEO)) {
-                    //视频
-                    BaseNewsActivity.startVideo(mContext, url, news.group_id, itemId);
-                } else {
-                    BaseNewsActivity.startNews(mContext, url, news.group_id, itemId);
-                }
-            }
-        });
+//        mAdapter.setOnRecyclerViewItemClickListener(new BaseQuickAdapter.OnRecyclerViewItemClickListener() {
+//            @Override
+//            public void onItemClick(View view, int i) {
+//                News news = mDatas.get(i);
+//                ///item_seo_url的值是item/6412427713050575361/  ,取出6412427713050575361
+//                String itemId = news.item_seo_url.replace("item/", "").replace("/", "");
+//                StringBuffer urlSb = new StringBuffer("http://m.toutiao.com/");
+//                if (!itemId.startsWith("i"))
+//                    urlSb.append("i");
+//                urlSb.append(itemId).append("/info/");
+//                String url = urlSb.toString();
+//                if (news.article_genre.equals(ConstanceValue.ARTICLE_GENRE_VIDEO)) {
+//                    //视频
+//                    BaseNewsActivity.startVideo(mContext, url, news.group_id, itemId);
+//                } else {
+//                    BaseNewsActivity.startNews(mContext, url, news.group_id, itemId);
+//                }
+//            }
+//        });
     }
 
 

@@ -24,7 +24,7 @@ public class AppClient {
     public static Retrofit mRetrofit;
 
     /**
-     * @param isOnlyString 是否只解析字符串格式数据
+     * @param
      * @return
      */
     public static Retrofit retrofit() {
@@ -69,3 +69,4 @@ public class AppClient {
     }
 
 }
+

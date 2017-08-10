@@ -31,7 +31,6 @@ public class NewsListPresenter extends BasePresenter<INewsListView> {
             protected void onError() {
                 super.onError();
                 mvpView.onError();
-                System.out.println("获取数据失败");
             }
         });
     }

@@ -1,4 +1,4 @@
-#Thu Aug 10 10:38:12 CST 2017
+#Thu Aug 10 17:28:26 CST 2017
 base.0=C\:\\Users\\jihan\\Desktop\\AndroidWorkspace\\TodayNews-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\jihan\\Desktop\\AndroidWorkspace\\TodayNews-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
